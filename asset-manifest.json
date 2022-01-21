@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pbcmint/static/css/main.c3215a6d.chunk.css",
+    "main.js": "/pbcmint/static/js/main.150f0bf9.chunk.js",
+    "main.js.map": "/pbcmint/static/js/main.150f0bf9.chunk.js.map",
+    "runtime-main.js": "/pbcmint/static/js/runtime-main.11bf75ed.js",
+    "runtime-main.js.map": "/pbcmint/static/js/runtime-main.11bf75ed.js.map",
+    "static/js/2.26f8f70b.chunk.js": "/pbcmint/static/js/2.26f8f70b.chunk.js",
+    "static/js/2.26f8f70b.chunk.js.map": "/pbcmint/static/js/2.26f8f70b.chunk.js.map",
+    "static/js/3.dd4ea874.chunk.js": "/pbcmint/static/js/3.dd4ea874.chunk.js",
+    "static/js/3.dd4ea874.chunk.js.map": "/pbcmint/static/js/3.dd4ea874.chunk.js.map",
+    "index.html": "/pbcmint/index.html",
+    "static/css/main.c3215a6d.chunk.css.map": "/pbcmint/static/css/main.c3215a6d.chunk.css.map",
+    "static/js/2.26f8f70b.chunk.js.LICENSE.txt": "/pbcmint/static/js/2.26f8f70b.chunk.js.LICENSE.txt",
+    "static/media/1.cefffb17.png": "/pbcmint/static/media/1.cefffb17.png",
+    "static/media/reset.css": "/pbcmint/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11bf75ed.js",
+    "static/js/2.26f8f70b.chunk.js",
+    "static/css/main.c3215a6d.chunk.css",
+    "static/js/main.150f0bf9.chunk.js"
+  ]
+}
